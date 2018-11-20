@@ -1,6 +1,3 @@
 this is a test of de git
-<<<<<<< HEAD
-I hope this isn't much of a problem
-=======
 this is bound to cause trouble!
->>>>>>> the_branch
+
